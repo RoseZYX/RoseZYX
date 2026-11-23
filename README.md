@@ -1,4 +1,4 @@
-# Hi, I'm Rose
+# SailorVision
 
 关注计算机视觉与工业缺陷检测，记录从基础概念到可复现实验的学习过程。
 
@@ -14,9 +14,9 @@
 
 | 内容 | 入口 | 当前状态 |
 | --- | --- | --- |
-| AI 学习笔记 | [文章目录](https://github.com/RoseZYX/ai-learning-notes) | 持续更新 |
-| 工业缺陷检测入门 | [标签与评估](https://github.com/RoseZYX/ai-learning-notes/blob/main/articles/001-labels-and-evaluation.md) | 已发布 |
-| 阈值评估练习 | [可运行的 Python 示例](https://github.com/RoseZYX/ai-learning-notes/blob/main/examples/threshold_evaluation.py) | 模拟数据练习 |
+| AI 学习笔记 | [文章目录](https://github.com/SailorVision/ai-learning-notes) | 持续更新 |
+| 工业缺陷检测入门 | [标签与评估](https://github.com/SailorVision/ai-learning-notes/blob/main/articles/001-labels-and-evaluation.md) | 已发布 |
+| 阈值评估练习 | [可运行的 Python 示例](https://github.com/SailorVision/ai-learning-notes/blob/main/examples/threshold_evaluation.py) | 模拟数据练习 |
 
 ## 学习与实践方向
 
